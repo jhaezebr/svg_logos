@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="LOGOS"
+   viewBox="0 0 121 137.49001"
+   version="1.1"
+   sodipodi:docname="Terraform_VerticalLogo_FullColor_RGB.svg"
+   width="121"
+   height="137.49001"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="3.4379845"
+     inkscape:cx="60.5"
+     inkscape:cy="55.941105"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="LOGOS" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#623ce4;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:#3c2aa8;}</style>
+  </defs>
+  <polygon
+     class="cls-1"
+     points="140.79,115.85 103.2,94.15 103.2,50.74 140.79,72.44 "
+     id="polygon26"
+     transform="translate(-61.5,-26.52)" />
+  <polygon
+     class="cls-2"
+     points="182.5,94.15 182.5,50.74 144.91,72.45 144.91,115.85 "
+     id="polygon28"
+     transform="translate(-61.5,-26.52)" />
+  <polygon
+     class="cls-1"
+     points="99.09,91.62 99.09,48.22 61.5,26.52 61.5,69.92 "
+     id="polygon30"
+     transform="translate(-61.5,-26.52)" />
+  <polygon
+     class="cls-1"
+     points="140.79,120.89 140.79,120.61 103.21,98.9 103.21,142.31 140.79,164.01 "
+     id="polygon32"
+     transform="translate(-61.5,-26.52)" />
+</svg>

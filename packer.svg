@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="LOGOS"
+   viewBox="0 0 89.230003 145.87"
+   version="1.1"
+   sodipodi:docname="Packer_VerticalLogo_FullColor_RGB.svg"
+   width="89.230003"
+   height="145.87"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="3.4379845"
+     inkscape:cx="44.59"
+     inkscape:cy="94.847134"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="LOGOS" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#00acff;fill-rule:evenodd;}.cls-2{fill:#0086d0;}</style>
+  </defs>
+  <polygon
+     class="cls-1"
+     points="94.19,161.1 46.91,133.78 46.91,33.06 94.19,60.37 "
+     id="polygon20"
+     transform="translate(-46.91,-15.23)" />
+  <path
+     class="cls-2"
+     d="M 70.68,29.6 19.29,0 v 20.55 l 35,20.18 v 61.67 l 16.44,9.44 c 10.18,5.88 18.5,2.36 18.5,-7.82 V 58.77 C 89.18,48.6 80.86,35.47 70.68,29.6 Z"
+     id="path22" />
+</svg>

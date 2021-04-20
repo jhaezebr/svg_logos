@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="LOGOS"
+   viewBox="0 0 131.06326 126.12"
+   version="1.1"
+   sodipodi:docname="Consul_VerticalLogo_FullColor_RGB.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   width="131.06326"
+   height="126.12">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="3.4379845"
+     inkscape:cx="65.934088"
+     inkscape:cy="87.79028"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="LOGOS"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#8e134a;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2,.cls-3{fill:#ca2171;}</style>
+  </defs>
+  <path
+     class="cls-1"
+     d="m 63.624088,76.505 a 13.6,13.6 0 1 1 13.57,-13.63 13.57,13.57 0 0 1 -13.57,13.63"
+     id="path20" />
+  <path
+     class="cls-2"
+     d="m 90.094088,69.175 a 6.28,6.28 0 1 1 6.27,-6.27 6.25,6.25 0 0 1 -6.27,6.27"
+     id="path22" />
+  <path
+     class="cls-2"
+     d="m 113.04409,75.085 v 0 a 6,6 0 1 1 0.13,-0.49 c -0.06,0.15 -0.06,0.31 -0.13,0.49"
+     id="path24" />
+  <path
+     class="cls-2"
+     d="m 108.60409,58.925 a 6.28,6.28 0 1 1 4.66,-7.5 6.4,6.4 0 0 1 0.06,2.46 6,6 0 0 1 -4.72,5.09"
+     id="path26" />
+  <path
+     class="cls-2"
+     d="m 130.92409,74.425 a 6.28,6.28 0 1 1 -5.1,-7.27 6.31,6.31 0 0 1 5.22,6.71 1.69,1.69 0 0 0 -0.12,0.56"
+     id="path28" />
+  <path
+     class="cls-2"
+     d="m 125.82409,58.655 a 6.26,6.26 0 1 1 5.15,-7.23 6.77,6.77 0 0 1 0.06,1.62 6.23,6.23 0 0 1 -5.21,5.59"
+     id="path30" />
+  <path
+     class="cls-2"
+     d="m 121.43409,96.115 v 0 a 6.37,6.37 0 1 1 0.77,-2.57 5.67,5.67 0 0 1 -0.77,2.57"
+     id="path32" />
+  <path
+     class="cls-2"
+     d="m 119.17409,38.475 a 6.3,6.3 0 1 1 2.4,-8.57 5.92,5.92 0 0 1 0.77,3.63 6.28,6.28 0 0 1 -3.17,4.94"
+     id="path34" />
+  <path
+     class="cls-3"
+     d="m 63.854088,126.115 a 63.06,63.06 0 1 1 0,-126.11 62.45,62.45 0 0 1 38.300002,13 l -7.710002,10 a 50.41,50.41 0 1 0 -30.59,90.42 49.94,49.94 0 0 0 30.58,-10.32 l 7.690002,10.06 a 62.49,62.49 0 0 1 -38.270002,12.95 z"
+     id="path36" />
+</svg>
